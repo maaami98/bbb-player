@@ -10,3 +10,10 @@ mv download.nginx /etc/bigbluebutton/nginx/
 service nginx restart
 
 ```
+
+#### Usage
+```
+https://example.com/download/presentation/<meeting_id>
+
+```
+
