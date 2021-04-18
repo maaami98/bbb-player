@@ -24,8 +24,8 @@ service nginx restart
 ```
 
 #### Usage
-```
+
 ![image](https://user-images.githubusercontent.com/35247648/115160284-24f24200-a0a0-11eb-9f65-5e49aaf41fe2.png)
 
-```
+
 
