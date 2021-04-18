@@ -25,7 +25,7 @@ service nginx restart
 
 #### Usage
 ```
-https://example.com/download/presentation/<meeting_id>
+![image](https://user-images.githubusercontent.com/35247648/115160270-14da6280-a0a0-11eb-887d-0e714b475a27.png)
 
 ```
 
