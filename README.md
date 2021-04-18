@@ -5,7 +5,9 @@ BigBlueButton Download Plugin + BigBlueButton Player
 ```
 docker run -d  -v <your published dir>/var/bigbluebutton/published/presentation:/published  -p 127.0.0.1:3535:3535  maaami98/bbb-download-api
 
-mv download.nginx /etc/bigbluebutton/nginx/
+cd /etc/bigbluebutton/nginx/
+
+wget https://raw.githubusercontent.com/maaami98/bbb-player/main/download.nginx
 
 service nginx restart
 
